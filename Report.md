@@ -14,7 +14,13 @@ Each agent has their own actor and critic networks.
 
 [Original paper](https://arxiv.org/abs/1706.02275)
 
-![final_100score.png](writeup/final_100score.png)
+The following is a plot of last 100 episodes:
+
+![mean-100-score.png](writeup/mean-100-score.png)
+
+The following is a plot of all episodes:
+
+![over-all-score.png](writeup/over-all-score.png)
 
 Final weights have been saved to: [Final weights file](final_score.pth)
 
