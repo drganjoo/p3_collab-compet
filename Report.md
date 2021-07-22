@@ -8,7 +8,7 @@ The environment is considered solved, when the average (over 100 episodes) of th
 
 ## Multi Agent Reinforcement Learning
 
-This project uses **MADDPG** algorithm to solve the problem. MADDPG is an extension of DDPG, that has been modified for multi agent (both cooperative and competitive settings). MADDPG is an offline actor-critic RL algorithm and the core idea is that each agent has a local isolated view of the environment that it percieves and uses to act in the environment. But for learning a central critic is used that has information about all of the combined states, actions, rewards acquired by all the agents.
+This project uses **MADDPG** algorithm to solve the problem. MADDPG is an extension of DDPG, that has been modified for multi agent (both cooperative and competitive settings). MADDPG is an offline actor-critic RL algorithm and the core idea is that each agent has a local isolated view of the environment that it percieves and uses to act in the environment. But for learning, a central critic is used that has information about all of the combined states, actions and rewards acquired by all of the agents in the environment.
 
 Each agent has their own actor and critic networks.
 
