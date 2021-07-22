@@ -24,6 +24,10 @@ The following is a plot of all episodes:
 
 Final weights have been saved to: [Final weights file](final_score.pth)
 
+Total number of episodes required to solve environment: 4,339    
+Total number of training steps taken: 86401
+
+
 ## Environment
 
 |Parameter|Value|
