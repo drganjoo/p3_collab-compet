@@ -34,7 +34,7 @@ Final weights have been saved to: [Final weights file](final_score.pth)
 
 # MADDPG Algorithm
 
-[algorithm.png](writeup/algorithm.png)
+![algorithm.png](writeup/algorithm.png)
 
 ## Implementation Details
 
