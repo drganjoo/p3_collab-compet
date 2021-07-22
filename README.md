@@ -61,7 +61,7 @@ python -m ipykernel install --user --name drlnd --display-name "drlnd"
 
 6. Install tensorboardX using `pip install tensorboardX`
 
-![Kernel][writeup/kernel.png]
+![Kernel](writeup/kernel.png)
 
 
 ### Getting Started
