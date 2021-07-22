@@ -16,7 +16,7 @@ Each agent has their own actor and critic networks.
 
 The following is a plot of last 100 episodes:
 
-![mean-100-score.png](writeup/mean-100-score.png)
+![mean-100-score-correct.png](writeup/mean-100-score-correct.png)
 
 The following is a plot of all episodes:
 
